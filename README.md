@@ -11,3 +11,6 @@ For those that want more of a challenge, and already feel comfortable with progr
    a program that shows two String variables with the same value as not equal, and explain in a comment why this is.
 5. Recursion is a beautiful thing, but sometimes if it ain't broke
    we can still tweak it. Make a factorial function WITHOUT using recursion.
+6. Write two lambda expressions, one that converts the input in degrees to radians,
+   and one that converts the input in radians to degrees. *Hint*, check out [this](https://www.tutorialspoint.com/java8/java8_lambda_expressions.htm)
+   tutorial on lambda expressions for help.
